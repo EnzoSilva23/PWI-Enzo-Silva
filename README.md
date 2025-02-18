@@ -2,7 +2,7 @@
 Repositório para armazenamento dos trabalhos de Programação da Web
 
 
-aula de abertura do show de magia de programação de web - E de inicio maravilhoso do ano de 2025 
+aula de abertura do show de magia de programação de web - Einicio maravilhoso do ano de 2025 
 
 nao consegui fazer isso mas na proxima eu faço 
 
